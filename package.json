@@ -1,0 +1,14 @@
+{
+  "name": "emitter-issue",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/listener.js",
+    "emit": "node src/emitter.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
